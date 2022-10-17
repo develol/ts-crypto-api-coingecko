@@ -1,0 +1,12 @@
+{
+  "name": "ts-crypto-api-coingecko",
+  "version": "1.0.0",
+  "description": "[TypeScript] API module for CoinGecko",
+  "main": "index.js",
+  "keywords": [],
+  "author": "[DeveLoL] Vsevolod Krekhalev",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc index.ts"
+  }
+}
