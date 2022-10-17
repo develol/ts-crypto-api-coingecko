@@ -34,17 +34,32 @@ import * as CoinGecko from 'ts-crypto-api-coingecko';
 ```
 ## CoinGecko [API](https://www.coingecko.com/en/api/documentation)
 ### Ping
+_README block is in development_
 ### Simple
+_README block is in development_
 ### Coins
+_README block is in development_
 ### Contract
+_README block is in development_
 ### Asset platforms
+_README block is in development_
 ### Categories
+_README block is in development_
 ### Exchanges
+_README block is in development_
 ### Indexes
+_README block is in development_
 ### Derivatives
+_README block is in development_
 ### NFTs
+_README block is in development_
 ### Exchange rates
+_README block is in development_
 ### Search
+_README block is in development_
 ### Trending
+_README block is in development_
 ### Global
+_README block is in development_
 ### Companies
+_README block is in development_
