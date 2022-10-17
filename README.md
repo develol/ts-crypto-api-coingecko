@@ -1,2 +1,2 @@
 # ts-crypto-api-coingecko
-[TypeScript] API module for CoinGecko
+[TypeScript] API module for [CoinGecko](https://www.coingecko.com/en/api/documentation)
